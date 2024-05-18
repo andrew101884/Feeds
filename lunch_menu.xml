@@ -1,1 +1,102 @@
-<?xml version='1.0' encoding='UTF-8'?><rss version='2.0'><channel><title>School Lunch Menu</title><description>Daily School Lunch Menu</description><link>http://www.example.com/lunchmenu</link><item><title>School Lunch</title><description>No menu available for today.</description><pubDate>Fri, 17 May 2024 22:40:12 </pubDate></item></channel></rss>
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>School Lunch Menu</title>
+    <link>http://www.example.com/lunchmenu</link>
+    <description>Daily School Lunch Menu</description>
+    <language>en-us</language>
+    <copyright>2024 School District</copyright>
+    <managingEditor>editor@example.com (Editor Name)</managingEditor>
+
+    <item>
+      <title>School Lunch</title>
+      <description><![CDATA[
+        <p><b>Monday, May 20, 2024</b></p>
+        <img src="https://raw.githubusercontent.com/andrew101884/Feeds/main/5.20.24.png" alt="Pasta and Meatballs">
+        <p>Pasta, Meatballs, Marinara Sauce, Garlic Breadstick, Mixed Veggies, Green Beans, Assorted Fresh or Canned Fruit, Milk,1% Lowfat, Chocolate milk</p>
+      ]]></description>
+      <pubDate>Mon, 20 May 2024 00:00:00 GMT</pubDate>
+    </item>
+
+    <item>
+      <title>School Lunch</title>
+      <description><![CDATA[
+        <p><b>Tuesday, May 21, 2024</b></p>
+        <img src="https://raw.githubusercontent.com/andrew101884/Feeds/main/5.21.24.png" alt="Macaroni and Cheese">
+        <p>Homemade Macaroni and Cheese, Steamed Broccoli, Carrot Coins, Assorted Fresh or Canned Fruit, Milk,1% Lowfat, Chocolate milk</p>
+      ]]></description>
+      <pubDate>Tue, 21 May 2024 00:00:00 GMT</pubDate>
+    </item>
+
+    <item>
+      <title>School Lunch</title>
+      <description><![CDATA[
+        <p><b>Wednesday, May 22, 2024</b></p>
+        <img src="https://raw.githubusercontent.com/andrew101884/Feeds/main/5.22.24.png" alt="Chicken Caesar Salad Wrap">
+        <p>Chicken Caesar Salad Wrap, Lowfat Strawberry Banana Yogurt, Cheez Its crackers, Assorted Fresh or Canned Fruit, Milk,1% Lowfat, Chocolate milk</p>
+      ]]></description>
+      <pubDate>Wed, 22 May 2024 00:00:00 GMT</pubDate>
+    </item>
+
+    <item>
+      <title>School Lunch</title>
+      <description><![CDATA[
+        <p><b>Thursday, May 23, 2024</b></p>
+        <img src="https://raw.githubusercontent.com/andrew101884/Feeds/main/5.23.24.png" alt="Turkey and Mashed Potatoes">
+        <p>Turkey, Mashed Potato, Gravy, Corn, Stuffing, Dinner Roll, Cranberry Sauce, Assorted Fresh or Canned Fruit, Milk,1% Lowfat, Chocolate milk</p>
+      ]]></description>
+      <pubDate>Thu, 23 May 2024 00:00:00 GMT</pubDate>
+    </item>
+
+    <item>
+      <title>School Lunch</title>
+      <description><![CDATA[
+        <p><b>Friday, May 24, 2024</b></p>
+        <img src="https://raw.githubusercontent.com/andrew101884/Feeds/main/5.24.24.png" alt="Cheesy Max Stuffed Crust Pizza">
+        <p>Pizza, Cheesy Max stuffed crust, Fresh Baby Carrots, Cucumber Circles, Light Ranch Dressing, Assorted Fresh or Canned Fruit, Sugar Cookie, Milk,1% Lowfat, Chocolate milk</p>
+      ]]></description>
+      <pubDate>Fri, 24 May 2024 00:00:00 GMT</pubDate>
+    </item>
+
+    <item>
+      <title>School Lunch</title>
+      <description><![CDATA[
+        <p><b>Tuesday, May 28, 2024</b></p>
+        <img src="https://raw.githubusercontent.com/andrew101884/Feeds/main/5.28.24.png" alt="Meatball Sub">
+        <p>Meatball Sub, Corn, Green Beans, Assorted Fresh or Canned Fruit, Milk,1% Lowfat, Chocolate milk</p>
+      ]]></description>
+      <pubDate>Tue, 28 May 2024 00:00:00 GMT</pubDate>
+    </item>
+
+    <item>
+      <title>School Lunch</title>
+      <description><![CDATA[
+        <p><b>Wednesday, May 29, 2024</b></p>
+        <img src="https://raw.githubusercontent.com/andrew101884/Feeds/main/5.29.24.png" alt="Grilled Cheese Sandwich and Tomato Soup">
+        <p>Grilled Cheese Sandwich, Tomato Soup, Steamed Broccoli, Veggie Boat, Milk,1% Lowfat, Chocolate milk</p>
+      ]]></description>
+      <pubDate>Wed, 29 May 2024 00:00:00 GMT</pubDate>
+    </item>
+
+    <item>
+      <title>School Lunch</title>
+      <description><![CDATA[
+        <p><b>Thursday, May 30, 2024</b></p>
+        <img src="https://raw.githubusercontent.com/andrew101884/Feeds/main/5.30.24.png" alt="Hot Dog on a Roll">
+        <p>Hot Dog on a Roll, Baked Beans, Corn, Condiments, Assorted Fresh or Canned Fruit, Milk,1% Lowfat, Chocolate milk</p>
+      ]]></description>
+      <pubDate>Thu, 30 May 2024 00:00:00 GMT</pubDate>
+    </item>
+
+    <item>
+      <title>School Lunch</title>
+      <description><![CDATA[
+        <p><b>Friday, May 31, 2024</b></p>
+        <img src="https://raw.githubusercontent.com/andrew101884/Feeds/main/5.31.24.png" alt="Cheesy Max Stuffed Crust Pizza">
+        <p>Pizza, Cheesy Max stuffed crust, Fresh Baby Carrots, Cucumber Circles, Light Ranch Dressing, Assorted Fresh or Canned Fruit, Candy Cookie, Milk,1% Lowfat, Chocolate milk</p>
+      ]]></description>
+      <pubDate>Fri, 31 May 2024 00:00:00 GMT</pubDate>
+    </item>
+
+  </channel>
+</rss>
