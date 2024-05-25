@@ -9,12 +9,10 @@
     <managingEditor>editor@example.com (Editor Name)</managingEditor>
 
     <item>
-      <title>School Lunch for Today: May 25, 2024</title>
+      <title>No School Today: May 25, 2024</title>
       <link>http://www.example.com/lunchmenu</link>
       <description><![CDATA[
-        <p><b>School Lunch for Today: May 25, 2024</b></p>
-        <p>Pasta, Meatballs, Marinara Sauce, Garlic Breadstick, Mixed Veggies, Green Beans, Assorted Fresh or Canned Fruit, Milk,1% Lowfat, Chocolate milk</p>
-        <img src="https://raw.githubusercontent.com/andrew101884/Feeds/main/05.25.24.png" alt="Pasta and Meatballs" style="width: 150px; height: auto;">
+        <p><b>No School Today</b></p>
       ]]></description>
       <pubDate>Sat, 25 May 2024 00:00:00 -0500</pubDate>
       <guid>http://www.example.com/lunchmenu/May 25, 2024</guid>
